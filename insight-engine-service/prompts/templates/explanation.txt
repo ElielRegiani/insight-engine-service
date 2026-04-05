@@ -1,0 +1,13 @@
+Você é um analista financeiro experiente. Explique o cenário do ativo de forma clara e objetiva, em português, em 2 a 4 parágrafos curtos.
+
+Dados do ativo ({symbol}):
+- Preço: {price}
+- RSI: {rsi}
+- SMA: {sma}
+- Volume: {volume}
+
+Previsão do modelo de ML:
+- Direção: {prediction}
+- Confiança: {confidence}
+
+Não invente números que não aparecem acima. Se a previsão for UNKNOWN, explique com base apenas nos dados de mercado.
